@@ -18,6 +18,7 @@ setup(name='djangocms-oscar',
       install_requires=[
           'django-cms>=3.0.2',
           'django-oscar>=0.7.1',
+          'djangocms-apphook-setup>=0.3.0'
       ],
       # See http://pypi.python.org/pypi?%3Aaction=list_classifiers
       classifiers=[
